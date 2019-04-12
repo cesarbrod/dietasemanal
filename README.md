@@ -1,5 +1,5 @@
 # dietasemanal
-Simples script em bash para a criação de dieta semanal a partir de lista de equivalências de alimentos
+Simples script em bash para a criação de dieta semanal a partir de lista de equivalências de alimentos (usei a lista fornecida pela Unimed Vale do Taquari e Rio Pardo - https://www.unimed.coop.br/web/vtrp
 
 Baixe todos os arquivos para uma pasta em seu computador que possua um interpretador bash shell
 
