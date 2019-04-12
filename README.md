@@ -1,5 +1,5 @@
-# dietasemanal
-## Esse script é um exemplo! Use-o para construir sua própria dieta com base nas indicações de sua própria nutricionista
+# dietasemanal.sh
+## Esse script é um exemplo! Use-o para construir sua própria dieta com base nas indicações de sua nutricionista
 
 Simples script em bash para a criação de dieta semanal a partir de lista de equivalências de alimentos (usei a lista fornecida pela Unimed Vale do Taquari e Rio Pardo - https://www.unimed.coop.br/web/vtrp
 
