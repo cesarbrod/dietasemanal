@@ -1,6 +1,7 @@
 #!/bin/bash
 #
 # Criação de dieta semanal com base na indicação da nutricionista
+# Esse script é um exemplo! Use-o para construir sua própria dieta com base nas indicações de sua própria nutricionista
 # Cesar Brod, abril de 2019
 # 
 # Recomendação de uso:
@@ -29,7 +30,7 @@
 # vegetal.txt - vegetais com carboidratos notáveis, apenas um por salada
  
 echo "============================="
-echo "Dieta semanal para Cesar Brod"
+echo "Dieta semanal para SEU_NOME  "
 echo "============================="
 echo
 for dia in Segunda Terça Quarta Quinta Sexta Sábado Domingo; do
