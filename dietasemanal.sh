@@ -1,7 +1,9 @@
 #!/bin/bash
 #
 # Criação de dieta semanal com base na indicação da nutricionista
-# Esse script é um exemplo! Use-o para construir sua própria dieta com base nas indicações de sua própria nutricionista
+# Esse script é um exemplo! Use-o para construir sua própria dieta com base nas indicações 
+# de sua própria nutricionista
+# 
 # Cesar Brod, abril de 2019
 # 
 # Recomendação de uso:
